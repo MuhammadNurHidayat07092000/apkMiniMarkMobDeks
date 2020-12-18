@@ -1,0 +1,11 @@
+c:\users\muhammad nur hidayat\documents\visual studio 2010\Projects\apkMiniMark\apkMiniMark\bin\Debug\apkMiniMark.exe
+c:\users\muhammad nur hidayat\documents\visual studio 2010\Projects\apkMiniMark\apkMiniMark\bin\Debug\apkMiniMark.pdb
+c:\users\muhammad nur hidayat\documents\visual studio 2010\Projects\apkMiniMark\apkMiniMark\bin\Debug\apkMiniMark.xml
+c:\users\muhammad nur hidayat\documents\visual studio 2010\Projects\apkMiniMark\apkMiniMark\obj\x86\Debug\apkMiniMark.frmUtama.resources
+c:\users\muhammad nur hidayat\documents\visual studio 2010\Projects\apkMiniMark\apkMiniMark\obj\x86\Debug\apkMiniMark.Resources.resources
+c:\users\muhammad nur hidayat\documents\visual studio 2010\Projects\apkMiniMark\apkMiniMark\obj\x86\Debug\apkMiniMark.vbproj.GenerateResource.Cache
+c:\users\muhammad nur hidayat\documents\visual studio 2010\Projects\apkMiniMark\apkMiniMark\obj\x86\Debug\apkMiniMark.exe
+c:\users\muhammad nur hidayat\documents\visual studio 2010\Projects\apkMiniMark\apkMiniMark\obj\x86\Debug\apkMiniMark.xml
+c:\users\muhammad nur hidayat\documents\visual studio 2010\Projects\apkMiniMark\apkMiniMark\obj\x86\Debug\apkMiniMark.pdb
+C:\Users\Muhammad Nur Hidayat\Documents\Visual Studio 2010\Projects\apkMiniMark\apkMiniMark\obj\x86\Debug\apkMiniMark.frm_Database.resources
+C:\Users\Muhammad Nur Hidayat\Documents\Visual Studio 2010\Projects\apkMiniMark\apkMiniMark\obj\x86\Debug\apkMiniMark.frm_DataJenis.resources
